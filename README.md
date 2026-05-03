@@ -13,10 +13,12 @@ b. Click on the pointing right arrow (on every person) to open the Detail Page.
 c. Click on the home button on the left bottom page to bring you back to Home Page.
 
 4. If you choose b path, you are in Detail Page. You could click on the contact number and it will bring your device to WhatsApp (PLEASE DO NOT SEND ANYTHING TO THAT NUMBER BECAUSE IT'S A RANDOM NUMBER AND IT'S ACTUALLY REAL).
-   
-5. You could click the back button on the left corner of the page to bring ypu back to the Structure Page.
 
-6. That's all, Thank you for using my project :>.
+5. You could also click heart button on the right top of the page to list that person as your favourite
+   
+6. You could click the back button on the left corner of the page to bring ypu back to the Structure Page.
+
+7. That's all, Thank you for using my project :>.
 
 ## SCREENSHOT PROJECT
 
@@ -53,6 +55,14 @@ c. Click on the home button on the left bottom page to bring you back to Home Pa
 
 
 
-<img width="720" height="1612" alt="Screenshot_20260503-151656 jpg" src="https://github.com/user-attachments/assets/d8ea8fe5-bc8f-48f6-b1a3-c48b67f3376d" />
+<img width="720" height="1612" alt="Screenshot_20260503-182907 jpg" src="https://github.com/user-attachments/assets/f112d3a4-c77d-4439-a4e4-5c0acb44d703" />   
+
+
+
+
+
+<img width="720" height="1612" alt="Screenshot_20260503-182904 jpg" src="https://github.com/user-attachments/assets/d84b6c92-5b19-4c96-9276-6d01f1852776" />
+
+
 
 
