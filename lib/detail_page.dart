@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'pengurus.dart';
+import 'tombol_favorit.dart';
 
 class DetailPage extends StatelessWidget {
   final Pengurus pengurus;
@@ -23,6 +24,10 @@ class DetailPage extends StatelessWidget {
       appBar: AppBar(
         title: Text('Detail ${pengurus.jabatan}', style: const TextStyle(color: Colors.white)),
         backgroundColor: const Color(0xFF43604C),
+        actions: [
+          FavoriteButton(idPengurus: pengurus.id),
+          SizedBox(width: 10),
+        ],
         iconTheme: const IconThemeData(color: Colors.white),
       ),
       body: SingleChildScrollView(
