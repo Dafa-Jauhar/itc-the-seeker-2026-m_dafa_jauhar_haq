@@ -16,14 +16,14 @@ class Pengurus {
   });
 }
 
-// Data Dummy berdasarkan referensi
+// Data Dummy 
 List<Pengurus> dataKetuaWakil = [
   Pengurus(
     id: '1',
     nama: 'Grace Rianty Butar Butar',
     jabatan: 'Chair Person', 
     deskripsi: 'Bertanggung jawab bersama Vice Chairman dalam mengelola, mengoordinasi dan merancang pengelolaan ITC secara keseluruhan.',
-    kontak: '+6282125667990', 
+    kontak: '+6282128632192', 
     imageUrl: 'assets/images/chair_person.jpeg',
   ),
   Pengurus(
@@ -31,7 +31,7 @@ List<Pengurus> dataKetuaWakil = [
     nama: 'Dzaki Ghatfaan Abhipraya', 
     jabatan: 'Vice Chairman', 
     deskripsi: 'Bertanggung jawab bersama Chair Person dalam mengelola, mengoordinasi dan merancang pengelolaan ITC secara keseluruhan.',
-    kontak: '+6282123456789',
+    kontak: '+6282128632192',
     imageUrl: 'assets/images/vice_chairman.jpeg', 
   )
 ];
@@ -42,7 +42,7 @@ List<Pengurus> sekreBenda = [
     nama: 'Nayla Saskia Zallianti', 
     jabatan: 'Secretary',
     deskripsi: 'Bertanggung jawab dalam pengelolaan keuangan di dalam ITC.', 
-    kontak: '+6282123456789',
+    kontak: '+6282128632192',
     imageUrl: 'assets/images/sekre.jpeg',
   ),
   Pengurus(
@@ -50,7 +50,7 @@ List<Pengurus> sekreBenda = [
     nama: 'Dewi Rahmawati',
     jabatan: 'Treasury', 
     deskripsi: 'Bertanggung jawab dalam pengelolaan berkas-berkas administrasi di dalam ITC.',
-    kontak: '+6282123456789',
+    kontak: '+6282128632192',
     imageUrl: 'assets/images/bendahara.jpeg',
   )
 ];
@@ -61,7 +61,7 @@ List<Pengurus> medinfo = [
     nama: 'M. Rafli Wibowo', 
     jabatan: 'Medinfo', 
     deskripsi: 'Bertanggung jawab dalam media informasi, baik dalam bentuk dokumentasi kegiatan maupun pengelolaan media sosial.', 
-    kontak: '+6282123456789', 
+    kontak: '+6282128632192', 
     imageUrl: 'assets/images/medinfo1.jpeg',
   ),
   Pengurus(
@@ -69,7 +69,7 @@ List<Pengurus> medinfo = [
     nama: 'Satya Dio Putranto', 
     jabatan: 'Medinfo', 
     deskripsi: 'Bertanggung jawab dalam media informasi, baik dalam bentuk dokumentasi kegiatan maupun pengelolaan media sosial.', 
-    kontak: '+6282123456789', 
+    kontak: '+6282128632192', 
     imageUrl: 'assets/images/medinfo2.jpeg',
   ),
   Pengurus(
@@ -77,7 +77,7 @@ List<Pengurus> medinfo = [
     nama: 'Wilda Nafian', 
     jabatan: 'Medinfo', 
     deskripsi: 'Bertanggung jawab dalam media informasi, baik dalam bentuk dokumentasi kegiatan maupun pengelolaan media sosial.', 
-    kontak: '+6282123456789', 
+    kontak: '+6282128632192', 
     imageUrl: 'assets/images/medinfo3.jpeg',
   ),
 
@@ -89,7 +89,7 @@ List<Pengurus> dataKadiv = [
     nama: 'Gradiva Arya Wicaksana', 
     jabatan: 'Head of Division Web', 
     deskripsi: 'Bertanggung jawab bersama Deputy Head of Division Web dalam pelatihan dan pengembangan teknologi informasi berbasis web.', 
-    kontak: '+6282123456789', 
+    kontak: '+6282128632192', 
     imageUrl: 'assets/images/kadiv_web.jpeg', 
   ),
   Pengurus(
@@ -97,7 +97,7 @@ List<Pengurus> dataKadiv = [
     nama: 'Farhannivta Ramadhana', 
     jabatan: 'Deputy Head of Division Web', 
     deskripsi: 'Bertanggung jawab bersama Head of Division Web dalam pelatihan dan pengembangan teknologi informasi berbasis web.', 
-    kontak: '+6282123456789', 
+    kontak: '+6282128632192', 
     imageUrl: 'assets/images/wakadiv1_web.jpeg', 
   ),
   Pengurus(
@@ -105,7 +105,7 @@ List<Pengurus> dataKadiv = [
     nama: 'Marvel Valensiano', 
     jabatan: 'Deputy Head of Division Web', 
     deskripsi: 'Bertanggung jawab bersama Head of Division Web dalam pelatihan dan pengembangan teknologi informasi berbasis web.', 
-    kontak: '+6282123456789', 
+    kontak: '+6282128632192', 
     imageUrl: 'assets/images/wakadiv2_web.jpeg', 
   ),
   Pengurus(
@@ -113,7 +113,7 @@ List<Pengurus> dataKadiv = [
     nama: 'Bintoro', 
     jabatan: 'Head of Division Mobile', 
     deskripsi: 'Bertanggung jawab bersama DeputyHead of Division Mobile dalam pelatihan dan pengembangan teknologi informasi berbasis mobile.', 
-    kontak: '+6282123456789', 
+    kontak: '+6282128632192', 
     imageUrl: 'assets/images/kadiv_mobile.jpeg', 
   ),  
   Pengurus(
@@ -121,7 +121,7 @@ List<Pengurus> dataKadiv = [
     nama: 'Ikhsan Fillah Hidayat', 
     jabatan: 'Deputy Head of Division Mobile', 
     deskripsi: 'Bertanggung jawab bersama Head of Division Mobile dalam pelatihan dan pengembangan teknologi informasi berbasis mobile.', 
-    kontak: '+6282123456789', 
+    kontak: '+6282128632192', 
     imageUrl: 'assets/images/wakadiv_mobile.jpeg',
   ),
   Pengurus(
@@ -129,7 +129,7 @@ List<Pengurus> dataKadiv = [
     nama: 'Bintang Ramadhan', 
     jabatan: 'Head of Division Machine Learning', 
     deskripsi: 'Bertanggung jawab bersama DeputyHead of Division Machine Learning dalam pelatihan dan pengembangan Artificial Intelligence dan Machine Learning.', 
-    kontak: '+6282123456789', 
+    kontak: '+6282128632192', 
     imageUrl: 'assets/images/kadiv_ai.jpeg',
   ),
   Pengurus(
@@ -137,7 +137,7 @@ List<Pengurus> dataKadiv = [
     nama: 'M. Dimas Setiaji', 
     jabatan: 'Deputy Head of Division Machine Learning', 
     deskripsi: 'Bertanggung jawab bersama Head of Division Machine Learning dalam pelatihan dan pengembangan Artificial Intelligence dan Machine Learning.', 
-    kontak: '+6282123456789', 
+    kontak: '+6282128632192',
     imageUrl: 'assets/images/wakadiv_ai.jpeg',
   ),
   Pengurus(
@@ -145,7 +145,7 @@ List<Pengurus> dataKadiv = [
     nama: 'Kurniasari Salasa', 
     jabatan: 'Head of Division Project Management', 
     deskripsi: 'Bertanggung jawab bersama Deputy Head of Division Project Management dalam pelatihan mengatur dan mengelola sebuah proyek berbasis teknologi informasi.', 
-    kontak: '+6282123456789', 
+    kontak: '+6282128632192', 
     imageUrl: 'assets/images/kadiv_pm.jpeg',
   ),
   Pengurus(
@@ -153,7 +153,7 @@ List<Pengurus> dataKadiv = [
     nama: 'Fahri Hidayatullah', 
     jabatan: 'Deputy Head of Division Project Management', 
     deskripsi: 'Bertanggung jawab bersama Head of Division Project Management dalam pelatihan mengatur dan mengelola sebuah proyek berbasis teknologi informasi.', 
-    kontak: '+6282123456789', 
+    kontak: '+6282128632192', 
     imageUrl: 'assets/images/wakadiv_pm.jpeg',
   ),
   Pengurus(
@@ -161,7 +161,7 @@ List<Pengurus> dataKadiv = [
     nama: 'M. Rizal A. Sucipno', 
     jabatan: 'Head of Division Competitive Programming', 
     deskripsi: 'Bertanggung jawab bersama Deputy Head of Division Competitive Programming dalam pelatihan logika di dalam pemrograman supaya program menjadi lebih efisien.', 
-    kontak: '+6282123456789', 
+    kontak: '+6282128632192', 
     imageUrl: 'assets/images/kadiv_com.jpeg',
   ),
    Pengurus(
@@ -169,7 +169,7 @@ List<Pengurus> dataKadiv = [
     nama: 'F. S. Dewaki Yasing Suryo', 
     jabatan: 'Deputy Head of Division Competitive Programming', 
     deskripsi: 'Bertanggung jawab bersama Deputy Head of Division Competitive Programming dalam pelatihan logika di dalam pemrograman supaya program menjadi lebih efisien.', 
-    kontak: '+6282123456789', 
+    kontak: '+6282128632192', 
     imageUrl: 'assets/images/wakadiv_com.jpeg',
   ),
    Pengurus(
@@ -177,7 +177,7 @@ List<Pengurus> dataKadiv = [
     nama: 'M. Ruhul Yadid', 
     jabatan: 'Head of Division UI/UX Design', 
     deskripsi: 'Bertanggung jawab bersama Deputy Head of Division UI/UX Design dalam pelatihan pembentukan UI dan UX dalam sebuah aplkasi/website.', 
-    kontak: '+6282123456789', 
+    kontak: '+6282128632192', 
     imageUrl: 'assets/images/kadiv_ux.jpeg',
   ),
   Pengurus(
@@ -185,7 +185,7 @@ List<Pengurus> dataKadiv = [
     nama: 'Gita Ristya', 
     jabatan: 'Deputy Head of Division UI/UX Design', 
     deskripsi: 'Bertanggung jawab bersama Head of Division UI/UX Design dalam pelatihan pembentukan UI dan UX dalam sebuah aplkasi/website.', 
-    kontak: '+6282123456789', 
+    kontak: '+6282128632192', 
     imageUrl: 'assets/images/wakadiv_ux.jpeg',
   ),
 ];
