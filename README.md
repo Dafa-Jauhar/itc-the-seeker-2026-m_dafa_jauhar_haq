@@ -2,7 +2,8 @@
 
 ## HOW TO RUN THIS MOBILE PROJECT
 
-1. Use VS Code with emulator to run the program (run in the main.dart files).
+1. Use VS Code with emulator to run the program in the main.dart (write "flutter pub get" to get all the dependencies before running the program). 
+
 2. You will be landed in the Home Page. There's 2 actions you could do here:   
 a. Click on the division (mobile/web/etc) to show the summary of that division (click "tutup" button to hide the summary).   
 b. Click on the right bottom (opened book symbol) to open the Structure page.
@@ -12,7 +13,7 @@ a. Click on the pointing down arrow (on secretary & treasury, MEDINFO, and Divis
 b. Click on the pointing right arrow (on every person) to open the Detail Page.   
 c. Click on the home button on the left bottom page to bring you back to Home Page.
 
-4. If you choose b path, you are in Detail Page. You could click on the contact number and it will bring your device to WhatsApp (PLEASE DO NOT SEND ANYTHING TO THAT NUMBER BECAUSE IT'S A RANDOM NUMBER AND IT'S ACTUALLY REAL).
+4. If you choose b path, you are in Detail Page. You could click on the contact number and it will bring your device to WhatsApp (It's actually my real number, you could say HI if you want to :>).
 
 5. You could also click heart button on the right top of the page to list that person as your favourite
    
